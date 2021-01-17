@@ -17,7 +17,7 @@ author: Pascal Poizat
 # base of your site relative to the root of the Web site, eg /Pascal.Poizat or ""
 baseurl: ""
 # URL of your site, eg https://pages.lip6.fr/Pascal.Poizat or http://pascalpoizat.github.io
-url: "http://pascalpoizat.github.io"
+url: "http://jeanjosephminviel.github.io"
 blog_dir: /blog
 permalink: /blog/posts/:year/:month/:day/:title/ # prefixed style
 category_dir: /blog/categories/
@@ -25,66 +25,20 @@ category_title_prefix: "category: "
 
 # author information
 
-picture: images/pascalpoizat.jpg
-email: firstname.lastname@gmail.com
+picture: images/PCE.jpg
+email: jean-joseph.minviel@inrae.fr
 
 networks:
   twitter:
     url: https://twitter.com/
-    username: pascalpoizat
+    username: jeanjosephminviel
   github:
     url: https://github.com/
-    username: pascalpoizat
+    username: jeanjosephminviel
   dblp:
     url: http://www.informatik.uni-trier.de/~ley/pers/hd/
-    username: p/Poizat:Pascal
+    username: p/Minviel:Jean
 
-bio:
-  with-logos: false
-
-contacts:
-  research:
-    email: firstname.lastname@lip6.fr
-    address: >
-      LIP6 - CNRS UMR 7606<br/>
-      Sorbonne Université<br/>
-      4 place Jussieu<br/>
-      75252 PARIS Cedex 05<br/>
-      France
-    direction:
-      address: >
-        aisle 25-26, office 209
-      map: http://maps.google.fr/maps?q=LIP6,+Place+Jussieu,+Paris&hl=fr&ll=48.846954,2.354357&spn=0.003392,0.004823&sll=48.847111,2.357037&sspn=0.006785,0.009645&oq=LIP6&hq=LIP6,+Place+Jussieu,+Paris&radius=15000&t=m&z=18
-      public_transportation:
-        stop: Jussieu
-        link: http://www.ratp.fr/itineraires/en/ratp/recherche-avancee?end=Jussieu+%28METRO%29%2C+Paris
-  teaching:
-    email: firstname.lastname@parisnanterre.fr
-    address: >
-      Dept. Math-Info, UFR SEGMI<br/>
-      Université Paris Nanterre<br/>
-      200 avenue de la République<br/>
-      92001 NANTERRE<br/>
-      France
-    direction:
-      address: >
-        building G, office E37
-      map: https://www.google.fr/maps/place/U.F.R.+Sciences+Économiques,+Gestion,+Mathématiques,+Informatique/@48.9037822,2.2150113,17z/data=!4m2!3m1!1s0x0:0xade365e28caa2d74
-      public_transportation:
-        stop: Nanterre Université
-        link: http://www.ratp.fr/itineraires/en/ratp/recherche-avancee?end=Nanterre-Universite+%28RER%29%2C+Nanterre
-
-# research
-
-research:
-  presentation:
-    overview: true
-    publications: true
-    talks:  true
-    conferences: true
-  restriction:
-      publications: 5
-      conferences: 10
 
 # apparence of posts
 
