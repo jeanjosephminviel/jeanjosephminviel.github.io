@@ -1,3 +1,3 @@
-# jjminviel.github.io
+# jeanjosephminviel.github.io
 
-[Web site](http://jjminviel.github.io)
+[Web site](http://jeanjosephminviel.github.io)
